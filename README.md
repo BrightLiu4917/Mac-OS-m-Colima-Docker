@@ -49,7 +49,7 @@ colima status
 ```
 
 ```plain
-docker info #输出如图2信息 如果 判定规则 需要 Docker Desktop 请忽略下图 最后一条
+docker info #输出如图2信息 如果 判定规则 需要 Docker Desktop 请忽略下图 最后一条 "无任何 Docker Desktop 相关字样（确认彻底卸载）"
 ```
 
 <!-- 这是一张图片，ocr 内容为： -->

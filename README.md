@@ -19,7 +19,7 @@
 ## 前置条件
 - macOS 最新系统更新（建议）
 - Homebrew 已安装
-  安装 Homebrew（若已安装可跳过）：
+  安装 Homebrew 官方源（若已安装可跳过）：
   ```bash
   /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
   ```
